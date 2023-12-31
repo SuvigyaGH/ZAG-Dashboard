@@ -5,8 +5,6 @@ Run locally using 'npm run dev'.
 ![image](https://github.com/SuvigyaGH/ZAG-Dashboard/assets/60514660/1133929b-56f4-48f0-9826-938205c27edf)
 How it looks 👆🏻
 
-Random Commit 7
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
