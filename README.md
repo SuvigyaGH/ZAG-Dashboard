@@ -9,8 +9,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Random commit 11
-
 First, run the development server:
 
 ```bash
